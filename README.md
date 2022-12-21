@@ -1,5 +1,5 @@
 # pwslantstacking
-a MATLAB script to illustrate the phase weighted slantstacking technique developed by F. Cheng
+MATLAB scripts to illustrate the phase weighted slantstacking technique developed by F. Cheng
 
 # citation
  
